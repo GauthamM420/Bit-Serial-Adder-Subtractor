@@ -1,0 +1,20 @@
+|SerialAdder
+Sum <= Full_Adder:inst.Sum
+Xi => Full_Adder:inst.Xi
+Yi => Full_Adder:inst.Yi
+Reset => inst355.IN0
+Clock => inst3.IN0
+Sub => inst1.IN0
+
+
+|SerialAdder|Full_Adder:inst
+Sum <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+Xi => inst.IN0
+Xi => inst3.IN0
+Yi => inst.IN1
+Yi => inst3.IN1
+Cin => inst1.IN1
+Cin => inst2.IN1
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+

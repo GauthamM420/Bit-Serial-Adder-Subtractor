@@ -1,0 +1,207 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/simulation/qsim
+vControl_FSM
+Z1 !s110 1682702104
+!i10b 1
+!s100 Og4OVCWXUoLnQcE47lLM>2
+IV4A<6iPh3DZ70^D1zZ1TD2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1682702103
+Z3 8BSAS.vo
+Z4 FBSAS.vo
+Z5 L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1682702104.000000
+Z8 !s107 BSAS.vo|
+Z9 !s90 -work|work|BSAS.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@control_@f@s@m
+vControl_FSM_vlg_vec_tst
+R1
+!i10b 1
+!s100 `USoVM__QIlAWT31;B<j^0
+IHaToI@8^>:S1CS5Ek@bn:3
+R2
+R0
+w1682702102
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+Z12 L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@control_@f@s@m_vlg_vec_tst
+vhard_block
+Z13 !s110 1682702837
+!i10b 1
+!s100 =mkD_n7hTiZe996oBeYAY0
+Ia4^i?kd3IZ6hO^GV=Z_hP1
+R2
+R0
+Z14 w1682702837
+R3
+R4
+L0 259
+R6
+r1
+!s85 0
+31
+Z15 !s108 1682702837.000000
+R8
+R9
+!i113 1
+R10
+R11
+vSerialAdder
+R13
+!i10b 1
+!s100 XShXodXJPMUokm=kY=G9A3
+In[Q8iTDfW8R0d@<bDzV<O2
+R2
+R0
+R14
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+R15
+R8
+R9
+!i113 1
+R10
+R11
+n@serial@adder
+vSerialAdder_vlg_vec_tst
+R13
+!i10b 1
+!s100 Jo^;Rd@1l_Gn6N28^<LGI2
+IoeD?]aCo7ejm_WUg;2i_A3
+R2
+R0
+w1682702835
+8Waveform3.vwf.vt
+FWaveform3.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R15
+!s107 Waveform3.vwf.vt|
+!s90 -work|work|Waveform3.vwf.vt|
+!i113 1
+R10
+R11
+n@serial@adder_vlg_vec_tst
+vX_Accumulator
+Z16 !s110 1682702009
+!i10b 1
+!s100 gU=Kl^=OB2Qe2;Fk7G][g2
+IFZI[bXElLm[>eA<3@QQM^1
+R2
+R0
+w1682702009
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z17 !s108 1682702009.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@x_@accumulator
+vX_Accumulator_vlg_vec_tst
+R16
+!i10b 1
+!s100 7A977D62<=`2YmnNmgca31
+ID_5XSY^z81`0z7?jjI`0n1
+R2
+R0
+w1682702007
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R17
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11
+n@x_@accumulator_vlg_vec_tst
+vY_Accumulator
+Z18 !s110 1682701901
+!i10b 1
+!s100 jQAGYTmG[GEN=YSlQ`bWZ1
+IVgW>Aa4CE^Cc^RToTP>b21
+R2
+R0
+w1682701900
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z19 !s108 1682701901.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@y_@accumulator
+vY_Accumulator_vlg_vec_tst
+R18
+!i10b 1
+!s100 n<_@Y2G^[cdbdW@C8Kj7Y2
+IPe>1zGl_ILFK39d[88TFM3
+R2
+R0
+w1682701898
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R19
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 1
+R10
+R11
+n@y_@accumulator_vlg_vec_tst

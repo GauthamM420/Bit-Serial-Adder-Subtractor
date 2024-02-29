@@ -1,0 +1,33 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Sum",
+					"strict" : false
+				},
+				{
+					"name" : "Xi",
+					"strict" : false
+				},
+				{
+					"name" : "Yi",
+					"strict" : false
+				},
+				{
+					"name" : "Sub",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

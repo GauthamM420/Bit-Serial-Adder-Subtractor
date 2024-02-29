@@ -1,0 +1,77 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/simulation/modelsim
+vBSAS5B_top
+Z1 !s110 1682520690
+!i10b 1
+!s100 ?68hU`>L`@?7gclC2EC=o0
+IWc6C6Y^_3zH[nCkMhSH`J3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1682520496
+Z4 8BSAS_6_1200mv_85c_slow.vo
+Z5 FBSAS_6_1200mv_85c_slow.vo
+L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1682520690.000000
+Z8 !s107 BSAS_6_1200mv_85c_slow.vo|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|BSAS_6_1200mv_85c_slow.vo|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+.
+Z12 tCvgOpt 0
+n@b@s@a@s5@b_top
+vhard_block
+R1
+!i10b 1
+!s100 J<ad[UgDQmeOZJgSl98oj1
+I2APTk4D9MBCn;fGV>iGcA1
+R2
+R0
+R3
+R4
+R5
+L0 1355
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vtest
+R1
+!i10b 1
+!s100 NBN5F=nBSQ1QS1Mc?Z6EO2
+II^98^9f3d3caFMebozkGJ0
+R2
+R0
+w1669673624
+8C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B_test.v
+FC:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B_test.v
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored|C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B_test.v|
+!i113 1
+R10
+!s92 -vlog01compat -work work +incdir+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored
+R12

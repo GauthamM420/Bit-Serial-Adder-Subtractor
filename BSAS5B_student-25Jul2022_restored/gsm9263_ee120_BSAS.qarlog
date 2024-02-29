@@ -1,0 +1,27 @@
+Quartus Prime Archive log --	C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/gsm9263_ee120_BSAS.qarlog
+
+Archive:	C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/gsm9263_ee120_BSAS.qar
+Date:		Wed Apr 26 10:51:18 2023
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS.qpf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS.qsf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS.sdc
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B_test.v
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS5B_top.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/BSAS_assignment_defaults.qdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/Control_FSM.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/Full_Adder.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/SerialAdder.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/Waveform.vwf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/Waveform1.vwf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/Waveform2.vwf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/X_Accumulator.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/Y_Accumulator.bdf
+C:/Users/Gautham/Desktop/EEE120/Labs/BSAS5B_student-25Jul2022_restored/assignment_defaults.qdf
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
